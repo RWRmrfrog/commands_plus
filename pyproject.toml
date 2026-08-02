@@ -5,7 +5,7 @@ build-backend = "hatchling.build"
 [project]
 name = "endstone-commands-plus"
 version = "1.0.0"
-dependencies = ["typing_extensions>=4.0"]
+dependencies = ["typing_extensions>=4.16.0"]
 authors = [
     { name = "RWRmrfrog", email = "contactrll@gmail.com" },
 ]
